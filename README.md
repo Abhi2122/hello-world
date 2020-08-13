@@ -1,2 +1,5 @@
 # hello-world
-First repository
+
+Hi all!
+
+Abhi here, this is my first repository.
